@@ -17,8 +17,6 @@ p
 @falib/src/main/java/com/cos/falib/common/AnalyticsConstants.java,0/3/03031fc0fb2d455e3d7a9ff6124989d6201fb2ee
 H
 app/google-services.json,f/d/fd8d34b142d02ec743a8efefefd2c097961666e9
-h
-8app/src/main/java/com/cos/fasampleapp/MyApplication.java,e/c/ec0f8467743a92b138b02b379932dd939d9de89a
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 N
