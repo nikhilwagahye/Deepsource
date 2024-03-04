@@ -1,0 +1,9 @@
+
+r
+java:S1104"WMake SCREEN_NAME a static final constant or non-public and provide accessors if needed.(È‰²—ýÿÿÿÿ
+L
+java:S1444"1Make this "public static SCREEN_NAME" field final(È‰²—ýÿÿÿÿ
+q
+java:S3008"VRename this field "SCREEN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‰²—ýÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÊŽ¿è
